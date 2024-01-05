@@ -42,5 +42,4 @@ export function SearchForm(){
             </button>
         </SearchFormContainer>
     )
-
 }
